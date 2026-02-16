@@ -13,6 +13,11 @@
 ```uv python list```
 
 ```uv venv env --python cpython-3.10.18-windows-x86_64-none```
+# mac
+#```uv venv env cpython-3.11.3-macos-aarch64-none```
+#```uv venv env --python cpython-3.11.3-macos-aarch64-none ```
+#```AI_Trip_Planner/env/bin/activate.bat```
+#```source env/bin/activate```
 
 ```uv add pandas```
 
